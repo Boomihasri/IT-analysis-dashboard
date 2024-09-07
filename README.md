@@ -31,6 +31,38 @@ Clearly state the primary goals of the project. For example, "The objective of t
 - **Presentation:** Microsoft Power Point\
   <img width="96" height="96" src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/icons8-power-point-144.png/>
 
+  ## 📅 Dataset Overview
+- **Data source:** Internet
+- **Time period:** 2014-2017
+- **Data size:** Forest, dim_tables, Budget
+- **Key columns:** Cost Element,Cost Element Group, Business Area, Country, Region, IT Department, IT Area, Dept. Manager
+- [**Data set Link**](https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/Finance%20Excel%20Dashboard.xlsx)
+
+## 💡 Recommendations
+1. Optimize inventory and marketing for top-performing products, especially OFF-BI-10000545.
+2. Focus on expanding in high-performing regions (East and West) while developing strategies for underperforming areas.
+3. Reevaluate the discounting strategy to minimize losses and maximize profitability.
+4. Capitalize on strong last quarter performance with targeted marketing campaigns and inventory management.
+5. Investigate and address causes of high return rates to minimize associated losses.
+6. Maintain success of non-discounted products while adjusting strategies for other items.
+7. Enhance performance of other shipping modes to balance reliance on Standard class.
+
+## 🧠 Project Learnings
+1. Data Loading and Transformations.
+2. Pivot table analysis.
+3. Power Query and DAX.
+4. Data modeling.
+5. Data visualization.
+6. Conditional and calculated column.
+7. Importance of data quality.
+8. Data storytelling.
+9. Sharpened analytical and problem-solving abilities.
+10. Actionable Insights Generation.
+11. Strengthened strategic planning and  presentation skill.
+12. Enhanced communication skills.
+
+  
+
 - **Understanding the Data:** A comprehensive overview of the IT budget data and its underlying structure.
 
 ### Data Preparation
