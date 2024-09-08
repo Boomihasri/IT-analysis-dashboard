@@ -78,4 +78,3 @@ Clearly state the primary goals of the project. For example, "The objective of t
 
 This project is a comprehensive journey through IT budget analysis and forecasting using Power BI. It offers a rich set of visualizations, interactive dashboards, and advanced features for effective data-driven decision-making.
 
-Feel free to use, adapt, and contribute to this project for mutual learning and improvement.
